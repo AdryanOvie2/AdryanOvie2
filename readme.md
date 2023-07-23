@@ -1,6 +1,7 @@
 # 💫 About Me:
 ¡Bienvenidos a mi perfil de GitHub!<br><br>Soy un apasionado programador joven con un ardiente deseo de aprender y crecer en el emocionante mundo de la tecnología.<br><br>Lo que me emociona más de ser parte de esta comunidad es la posibilidad de participar en proyectos que marquen la diferencia en el mundo. Estoy ansioso por colaborar con mentes brillantes y sumergirme en desafíos emocionantes que aporten a mi creatividad y habilidades técnicas.<br><br>Gracias por visitar mi perfil. ¡Estoy emocionado por lo que depara el futuro y las oportunidades emocionantes que nos esperan! Siéntete libre de contactarme para cualquier consulta o colaboración.<br><br>¡Juntos podemos llevar la innovación y el desarrollo tecnológico a nuevas alturas! ¡Hablemos pronto!<br>
 
+<p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong> con 10 años experiencia.<br />¡Revisa mi contenido 👇!</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oviedoadrian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdryanOvie2) 
